@@ -19,4 +19,4 @@ Technologies would include, but are not limited to, Python, Django, Scrapy (open
 ### What I'll Have to Learn
 I will have to learn how to write a simple basic web-scraping program using Python as well as how to use Scrapy, which includes an HTML parser. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/6QW0Ciu8/simple-project-board
